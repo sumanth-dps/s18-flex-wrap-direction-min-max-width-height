@@ -92,8 +92,8 @@
 }
 .divClass3{
     margin:10px;
-    width:30%;
-    height:30%;
+    width:35%;
+    height:400px;
     background-color: aqua;
     display: flex;
     flex-wrap:wrap;
