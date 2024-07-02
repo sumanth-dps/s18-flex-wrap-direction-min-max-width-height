@@ -1,0 +1,199 @@
+.divClass{
+    margin:10px;
+    max-width: 500px;
+    min-width:300px;
+    height:400px;
+    background-color: aqua;
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+}
+.div1{
+    justify-content: start;
+    align-items: start;
+}
+.div2{
+    justify-content: center;
+    align-items: start;
+}
+.div3{
+    justify-content: end;
+    align-items: start;
+}
+.div4{
+    justify-content: start;
+    align-items: center;
+}
+.div5{
+    justify-content: center;
+    align-items: center;
+}
+.div6{
+    justify-content: end;
+    align-items: center;
+}
+.div7{
+    justify-content: start;
+    align-items: end;
+}
+.div8{
+    justify-content: center;
+    align-items: end;
+}
+.div9{
+    justify-content: end;
+    align-items: end;
+}
+.divClass2{
+    margin:10px;
+    max-width: 50vw;
+    min-width:30vw;
+    height:400px;
+    background-color: aqua;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: row-reverse;
+}
+.div10{
+    justify-content: start;
+    align-items: start;
+}
+.div11{
+    justify-content: center;
+    align-items: start;
+}
+.div12{
+    justify-content: end;
+    align-items: start;
+}
+.div13{
+    justify-content: start;
+    align-items: center;
+}
+.div14{
+    justify-content: center;
+    align-items: center;
+}
+.div15{
+    justify-content: end;
+    align-items: center;
+}
+.div16{
+    justify-content: start;
+    align-items: end;
+}
+.div17{
+    justify-content: center;
+    align-items: end;
+}
+.div18{
+    justify-content: end;
+    align-items: end;
+}
+.divClass3{
+    margin:10px;
+    width:30%;
+    height:30%;
+    background-color: aqua;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+}
+.div19{
+    justify-content: start;
+    align-items: start;
+}
+.div20{
+    justify-content: start;
+    align-items: center;
+}
+.div21{
+    justify-content: start;
+    align-items: end;
+}
+
+.div22{
+    justify-content: center;
+    align-items: start;
+}
+.div23{
+    justify-content: center;
+    align-items: center;
+}
+.div24{
+    justify-content: center;
+    align-items: end;
+}
+
+.div25{
+    justify-content: end;
+    align-items: start;
+}
+.div26{
+    justify-content: end;
+    align-items: center;
+}
+.div27{
+    justify-content: end;
+    align-items: end;
+}
+.divClass4{
+    margin:10px;
+    width:600px;
+    height:400px;
+    background-color: aqua;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: column-reverse;
+}
+.div28{
+    justify-content: start;
+    align-items: start;
+}
+.div29{
+    justify-content: start;
+    align-items: center;
+}
+.div30{
+    justify-content: start;
+    align-items: end;
+}
+
+.div31{
+    justify-content: center;
+    align-items: start;
+}
+.div32{
+    justify-content: center;
+    align-items: center;
+}
+.div33{
+    justify-content: center;
+    align-items: end;
+}
+
+.div34{
+    justify-content: end;
+    align-items: start;
+}
+.div35{
+    justify-content: end;
+    align-items: center;
+}
+.div36{
+    justify-content: end;
+    align-items: end;
+}
+
+
+.item{
+    min-width: 25px;
+    min-height: 25px;
+    width:75px;
+    height:75px;
+    
+    font-size: 4rem;
+    text-align: center;
+    background-color: blueviolet;
+    border: 2px solid black;
+}
